@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌎I'm from Brazil<br>🏠Living in São Paulo<br>📚 I'm currently studying Data Science</p>
+<p align="left">🌎I'm from Brazil<br>🏠Living in Minas Gerais<br>📚 I'm currently studying Data Science</p>
 
 ###
 
