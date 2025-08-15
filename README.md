@@ -11,7 +11,9 @@
   <img height=152 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofiabns&layout=compact&theme=radical&langs_count=8&card_width=320" />
 </a>
 
-![source](https://github.com/user-attachments/assets/a8ef2984-35a8-4769-b73e-20551c5a5a6f)
+<div style="display": inline_block"><br>
+<img align="right" alt="Luna-Cat" src="https://github.com/user-attachments/assets/a8ef2984-35a8-4769-b73e-20551c5a5a6f">
+</div>
 
 ###
 
