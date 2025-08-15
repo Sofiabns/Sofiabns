@@ -4,16 +4,18 @@
 
 <p align="left">👩🏻‍💻 Data Analytics sharing about my journey and learnings in tech<br>👩🏻‍🎓 Artificial Intelligence student at FIAP - Faculty of Computer Science and Administration of São Paulo <br>📚 Currently learning about Power BI and creating BOTS to automate projects</p>
 
+<div style="display": inline_block"><br>
+<img height=180 align="right" alt="Luna-Cat" src="https://github.com/user-attachments/assets/a8ef2984-35a8-4769-b73e-20551c5a5a6f">
+</div>
+
 <a href="https://github.com/sofiabns/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sofiabns&theme=radical" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=sofiabns&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofiabns&layout=compact&theme=radical&langs_count=8&card_width=320" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofiabns&layout=compact&theme=radical&langs_count=8&card_width=320" />
 </a>
 
-<div style="display": inline_block"><br>
-<img height=160 align="right" align="center" alt="Luna-Cat" src="https://github.com/user-attachments/assets/a8ef2984-35a8-4769-b73e-20551c5a5a6f">
-</div>
+
 
 ###
 
