@@ -12,7 +12,7 @@
 </a>
 
 <div style="display": inline_block"><br>
-<img align="right" alt="Luna-Cat" src="https://github.com/user-attachments/assets/a8ef2984-35a8-4769-b73e-20551c5a5a6f">
+<img height=50 align="right" alt="Luna-Cat" src="https://github.com/user-attachments/assets/a8ef2984-35a8-4769-b73e-20551c5a5a6f">
 </div>
 
 ###
