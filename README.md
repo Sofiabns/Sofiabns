@@ -5,7 +5,7 @@
 <p align="left">👩🏻‍💻 Data Analytics sharing about my journey and learnings in tech<br>👩🏻‍🎓 Artificial Intelligence student at FIAP - Faculty of Computer Science and Administration of São Paulo <br>📚 Currently learning about Power BI and creating BOTS to automate projects</p>
 
 <div style="display": inline_block"><br>
-<img height=180 align="right" alt="Luna-Cat" src="https://github.com/user-attachments/assets/a8ef2984-35a8-4769-b73e-20551c5a5a6f">
+<img height=160 align="center" alt="Luna-Cat" src="https://github.com/user-attachments/assets/a8ef2984-35a8-4769-b73e-20551c5a5a6f">
 </div>
 
 <a href="https://github.com/sofiabns/github-readme-stats">
