@@ -11,5 +11,7 @@
   <img height=152 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofiabns&layout=compact&theme=radical&langs_count=8&card_width=320" />
 </a>
 
+!(https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyOTQ4MXNvbjRpOG9vdDRveHAxemM4bWhucDIxdnVoNXZiOWg3OGhrZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/FEExs4OQxvrqM/source.gif)
+
 ###
 
