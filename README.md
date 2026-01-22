@@ -90,12 +90,16 @@ Me chamo Sofia Bueris Netto de Souza, tenho 19 anos e sou natural de Minas Gerai
 <br/>
 <br/>
 
----
 
 
 ### 📊 Estatísticas
 
-
+<div style="display"
+    : inline_block><br>
+<img height=160 align="center"
+     alt="Luna-Cat" 
+     src="https://github.com/user-attachments/assets/a8ef2984-35a8-4769-b73e-20551c5a5a6f">
+</div>
 
 <p>
   <img 
