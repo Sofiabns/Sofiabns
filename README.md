@@ -96,8 +96,8 @@ Me chamo Sofia Bueris Netto de Souza, tenho 19 anos e sou natural de Minas Gerai
 ### 📊 Estatísticas
 
 <div style="display"
-    : inline_block"><br>
-<img height=160 align="left"
+    : inline_block><br>
+<img height=160 align="center"
      alt="Luna-Cat" 
      src="https://github.com/user-attachments/assets/a8ef2984-35a8-4769-b73e-20551c5a5a6f">
 </div>
@@ -106,16 +106,16 @@ Me chamo Sofia Bueris Netto de Souza, tenho 19 anos e sou natural de Minas Gerai
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="190" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Sofiabns&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=sofiabns&show_icons=true&theme=tokyonight&include_all_commits=true&" 
   />
-
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiabns&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      height="188" 
+      style="padding-right: 10px;" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiabns&theme=tokyonight&layout=compact&custom_title=Tecnologies" 
   />
 
 </p>
