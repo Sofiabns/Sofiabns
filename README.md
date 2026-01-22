@@ -111,7 +111,7 @@ Me chamo Sofia Bueris Netto de Souza, tenho 19 anos e sou natural de Minas Gerai
     src="https://github-readme-stats.vercel.app/api?username=sofiabns&show_icons=true&theme=tokyonight&include_all_commits=true&" 
   />
 <img 
-      align="right" 
+      align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiabns&theme=tokyonight&layout=compact&custom_title=Tecnologies" 
