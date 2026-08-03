@@ -2,7 +2,11 @@
 
 **`Desenvolvedora Backend`**
 
-Me chamo Sofia Bueris Netto de Souza, tenho 19 anos e sou natural de Minas Gerais. Atualmente, estou cursando Inteligência Artificial na FIAP. Sou apaixonada por aprender coisas novas, por isso, estou aprendendo mais sobre o mundo da Ciência de Dados e um novo idioma, Japonês. Além disso, estou em busca de oportunidades de Estágio para ampliar meus conhecimentos e poder construir uma base sólida para minha trajetória na área de tecnologia. 
+Olá! Sou a Sofia Bueris, estudante de Inteligência Artificial na FIAP e AWS Certified Cloud Practitioner.
+
+Sou apaixonada por resolver problemas complexos através de tecnologia. Atualmente, foco meus estudos e projetos em Cloud Computing, Visão Computacional, Machine Learning e Engenharia de Dados, aplicando na prática o ciclo completo de vida de soluções de IA, desde a estruturação de pipelines de dados até o deploy e monitoramento de modelos em nuvem.
+
+🎯 Objetivo: Em busca de oportunidades de estágio onde eu possa impactar projetos reais de tecnologia, contribuir com a equipe e construir uma base sólida no mercado.
 
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofiabueris/)
 ---
