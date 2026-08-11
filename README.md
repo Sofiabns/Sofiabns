@@ -1,125 +1,54 @@
-# 👩‍💻 Sofia Bueris
+# Sofia Bueris
 
-**`Desenvolvedora Backend`**
+**Artificial Intelligence student at FIAP | AWS Certified Cloud Practitioner | Machine Learning, Cloud & MLOps**
 
-Olá! Sou a Sofia Bueris, estudante de Inteligência Artificial na FIAP e AWS Certified Cloud Practitioner.
+I build practical AI and cloud products that connect data, models, APIs, and infrastructure. My work focuses on Python, machine learning, computer vision, AWS, and the engineering required to move an idea from experimentation to a reliable product.
 
-Sou apaixonada por resolver problemas complexos através de tecnologia. Atualmente, foco meus estudos e projetos em Cloud Computing, Visão Computacional, Machine Learning e Engenharia de Dados, aplicando na prática o ciclo completo de vida de soluções de IA, desde a estruturação de pipelines de dados até o deploy e monitoramento de modelos em nuvem.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sofia_Bueris-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofiabueris/)
+![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?logo=amazonwebservices&logoColor=white)
+[![Location](https://img.shields.io/badge/São_Paulo-Brazil-1F6FEB)](https://github.com/Sofiabns)
 
-🎯 Objetivo: Em busca de oportunidades de estágio onde eu possa impactar projetos reais de tecnologia, contribuir com a equipe e construir uma base sólida no mercado.
+## What I bring
 
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofiabueris/)
----
+- AWS Certified Cloud Practitioner and **Google Student Ambassador 2026**.
+- Artificial Intelligence undergraduate at FIAP, graduating in December 2026.
+- Experience building Python automation that reduced manual operational work by **40%**.
+- Hands-on projects across FinOps, forecasting, anomaly detection, computer vision, NLP, APIs, Docker, Terraform, and CI/CD.
+- Currently seeking internship opportunities in **AI, Machine Learning, Cloud, Data, or MLOps**.
 
-### 🤖 Linguagens e Tecnologias
+## Featured work
 
+### [CloudSpend AI — AWS FinOps Intelligence Platform](https://github.com/Sofiabns/cloudspend-ai)
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-  <img
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-  <img
-    align="left" 
-    alt="AWS" 
-    title="AWS"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-/>
-  <img
-    align="left" 
-    alt="RStudio" 
-    title="RStudio"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"
-/>
-  <img
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
+Portfolio-grade FinOps product that analyzes AWS costs, forecasts the next 30 days, detects explainable anomalies, and prioritizes savings opportunities. Built with React, TypeScript, FastAPI, DuckDB, XGBoost, Isolation Forest, Docker, Terraform, and GitHub Actions. The public mode uses safe synthetic data; AWS integration follows the standard read-only credential chain.
 
-  <img
-    align="left" 
-    alt="Google Colab" 
-    title="Google Colab"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg"
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+### [Industrial Plate Data Extraction](https://github.com/Sofiabns/VC_EXTRACAO_PLACAS_INDUSTRIAIS)
 
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+Computer vision pipeline for extracting technical data from industrial motor and pump plates, including image preprocessing and OCR/deep-learning model evaluation.
 
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+### [NewsAnalyzer](https://github.com/Sofiabns/NewsAnalyzer)
 
+Streamlit application that extracts online news content and uses Portuguese NLP and Maritaca AI to generate structured summaries and analytical signals.
 
-<br/>
-<br/>
+## Core toolkit
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-6D28D9)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
+## Current focus
 
-### 📊 Estatísticas
+- Production-minded machine learning and MLOps patterns.
+- Cloud architecture, observability, cost efficiency, and infrastructure as code.
+- Building **ModelOps** and **SmartDocs** as the next portfolio products.
 
-<div style="display"
-    : inline_block><br>
-<img height=130 align="center"
-     alt="Luna-Cat" 
-     src="https://github.com/user-attachments/assets/a8ef2984-35a8-4769-b73e-20551c5a5a6f">
-</div>
+## Let's connect
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Sofiabns&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiabns&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
+I am open to internships, collaborative projects, and conversations about applied AI and cloud engineering. Reach me on [LinkedIn](https://www.linkedin.com/in/sofiabueris/).
