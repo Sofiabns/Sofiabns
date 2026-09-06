@@ -4,7 +4,7 @@ I'm an Artificial Intelligence student at FIAP and an AWS Certified Cloud Practi
 
 I like building practical projects that turn data into useful tools. I work mostly with Python, APIs, databases, and cloud services. I also pay attention to clear documentation, testing, and security so other people can understand and run my work.
 
-I'm currently looking for junior opportunities in AI, Machine Learning, Data, Cloud, or MLOps.
+I'm currently looking for opportunities in AI, Machine Learning, Data, Cloud, or MLOps.
 
 ## Projects
 
