@@ -1,54 +1,41 @@
-# Sofia Bueris
+# Hi, I'm Sofia 👋
 
-**Artificial Intelligence student at FIAP | AWS Certified Cloud Practitioner | Machine Learning, Cloud & MLOps**
+I'm an Artificial Intelligence student at FIAP and an AWS Certified Cloud Practitioner, based in São Paulo, Brazil.
 
-I build practical AI and cloud products that connect data, models, APIs, and infrastructure. My work focuses on Python, machine learning, computer vision, AWS, and the engineering required to move an idea from experimentation to a reliable product.
+I enjoy turning messy data and ambitious ideas into products people can actually use. My projects usually take the full route: data ingestion, modeling, APIs, cloud infrastructure, tests, and documentation. I care about the less glamorous parts too — traceability, cost, security, and making things reproducible.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sofia_Bueris-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofiabueris/)
-![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?logo=amazonwebservices&logoColor=white)
-[![Location](https://img.shields.io/badge/São_Paulo-Brazil-1F6FEB)](https://github.com/Sofiabns)
+I'm currently looking for junior opportunities in AI, Machine Learning, Data, Cloud, or MLOps.
 
-## What I bring
+## What I'm building
 
-- AWS Certified Cloud Practitioner and **Google Student Ambassador 2026**.
-- Artificial Intelligence undergraduate at FIAP, graduating in December 2026.
-- Experience building Python automation that reduced manual operational work by **40%**.
-- Hands-on projects across FinOps, forecasting, anomaly detection, computer vision, NLP, APIs, Docker, Terraform, and CI/CD.
-- Currently seeking internship opportunities in **AI, Machine Learning, Cloud, Data, or MLOps**.
+### [GovInsight AI](https://github.com/Sofiabns/govinsight-ai) — public procurement, explained with evidence
 
-## Featured work
+A data platform that turns official PNCP procurement records into auditable indicators and natural-language answers. I built the Bronze/Silver/Gold pipeline, FastAPI application, PostgreSQL models, quality gates, tests, and automated workflows.
 
-### [CloudSpend AI — AWS FinOps Intelligence Platform](https://github.com/Sofiabns/cloudspend-ai)
+[Repository](https://github.com/Sofiabns/govinsight-ai) · [Live demo](https://govinsight-ai.vercel.app/)
 
-Portfolio-grade FinOps product that analyzes AWS costs, forecasts the next 30 days, detects explainable anomalies, and prioritizes savings opportunities. Built with React, TypeScript, FastAPI, DuckDB, XGBoost, Isolation Forest, Docker, Terraform, and GitHub Actions. The public mode uses safe synthetic data; AWS integration follows the standard read-only credential chain.
+### [CloudSpend AI](https://github.com/Sofiabns/cloudspend-ai) — practical FinOps for AWS
 
-### [Industrial Plate Data Extraction](https://github.com/Sofiabns/VC_EXTRACAO_PLACAS_INDUSTRIAIS)
+A platform for cost analysis, 30-day forecasting, explainable anomaly detection, and savings recommendations. It combines React, FastAPI, DuckDB, XGBoost, Isolation Forest, Docker, Terraform, and GitHub Actions.
 
-Computer vision pipeline for extracting technical data from industrial motor and pump plates, including image preprocessing and OCR/deep-learning model evaluation.
+[Repository](https://github.com/Sofiabns/cloudspend-ai)
 
-### [NewsAnalyzer](https://github.com/Sofiabns/NewsAnalyzer)
+## More work
 
-Streamlit application that extracts online news content and uses Portuguese NLP and Maritaca AI to generate structured summaries and analytical signals.
+- [Industrial Plate Data Extraction](https://github.com/Sofiabns/VC_EXTRACAO_PLACAS_INDUSTRIAIS) — computer vision and OCR for technical motor and pump plates.
+- [NewsAnalyzer](https://github.com/Sofiabns/NewsAnalyzer) — Portuguese NLP and Maritaca AI for structured news analysis.
 
-## Core toolkit
+## Tools I reach for
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-6D28D9)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+- **AI & Data:** Python, SQL, machine learning, NLP, computer vision, DuckDB, PostgreSQL
+- **APIs & Apps:** FastAPI, Streamlit, React, TypeScript
+- **Cloud & Delivery:** AWS, Docker, Terraform, GitHub Actions, CI/CD
 
-## Current focus
+## A little more about me
 
-- Production-minded machine learning and MLOps patterns.
-- Cloud architecture, observability, cost efficiency, and infrastructure as code.
-- Building **ModelOps** and **SmartDocs** as the next portfolio products.
+- AWS Certified Cloud Practitioner
+- Google Student Ambassador 2026
+- Artificial Intelligence undergraduate at FIAP, graduating in December 2026
+- Built Python automation that reduced manual operational work by 40%
 
-## Let's connect
-
-I am open to internships, collaborative projects, and conversations about applied AI and cloud engineering. Reach me on [LinkedIn](https://www.linkedin.com/in/sofiabueris/).
+If you'd like to talk about applied AI, data products, or junior opportunities, find me on [LinkedIn](https://www.linkedin.com/in/sofiabueris/).
